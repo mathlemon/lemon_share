@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LemonShareActivity!</string>
+    <string name="app_name">柠檬分享</string>
+    <string name="link_to_web">链接到网络</string>
+    <string name="hint_login_input">请输入账户</string>
+    <string name="hint_password_input">请输入密码</string>
+    <string name="no_login">暂不登录</string>
+    <string name="login">登录</string>
+    <string name="douban">豆瓣</string>
+    <string name="weibo">微博</string>
+    <string name="qqweibo">QQ微博</string>
+    <string name="main_tab_widget">主界面</string>
+    <string name="weibo_login_icon">微博登陆图标</string>
+    <string name="query_weibo_info">获取微博信息</string>
+    <string name="weibo_result">微博结果回显</string>
+
+</resources>
